@@ -1,0 +1,45 @@
+[2026-03-10 19:57:23] [SYSTEM_START] Crowd monitoring system initiated.
+[2026-03-10 19:57:27] [DETECTION_START] YOLOv8 model loaded.
+[2026-03-10 19:57:27] [SYSTEM_INIT] Loaded 0 zones.
+[2026-03-10 19:57:51] [ZONE_ADDED] Added Zone 1 at (20, 16, 235, 219)
+[2026-03-10 19:58:38] [ZONES_CLEARED] All zones cleared.
+[2026-03-10 19:58:43] [SYSTEM_SHUTDOWN] Crowd monitoring system closed.
+[2026-03-17 15:21:07] [SYSTEM_START] Crowd monitoring system initiated.
+[2026-03-17 15:21:08] [CAMERA_START] Camera feed started successfully.
+[2026-03-17 15:21:08] [DETECTION_START] YOLOv8 model loaded.
+[2026-03-17 15:21:08] [SYSTEM_INIT] Loaded 0 zones.
+[2026-03-17 15:21:27] [ZONE_ADDED] Added Zone 1 at (92, 53, 457, 362)
+[2026-03-17 15:21:35] [ZONE_ADDED] Added Zone 2 at (61, 39, 318, 327)
+[2026-03-17 15:21:47] [ZONE_REMOVED] Removed Zone 2
+[2026-03-17 15:21:47] [ZONE_REMOVED] Removed Zone 1
+[2026-03-17 15:21:53] [SYSTEM_SHUTDOWN] Crowd monitoring system closed.
+[2026-03-17 15:32:59] [SYSTEM_START] Crowd monitoring system initiated.
+[2026-03-17 15:33:01] [CAMERA_START] Camera feed started successfully.
+[2026-03-17 15:33:01] [DETECTION_START] YOLOv8 model loaded.
+[2026-03-17 15:33:01] [SYSTEM_INIT] Loaded 0 zones.
+[2026-03-17 15:33:12] [ZONE_ADDED] Added Zone 1 at (9, 22, 207, 289)
+[2026-03-17 15:33:19] [ZONE_REMOVED] Removed Zone 1
+[2026-03-17 15:33:23] [ZONE_ADDED] Added Zone 1 at (192, 116, 277, 275)
+[2026-03-17 15:33:56] [ZONE_REMOVED] Removed Zone 1
+[2026-03-17 15:34:12] [SYSTEM_START] Crowd monitoring system initiated.
+[2026-03-17 15:34:13] [CAMERA_START] Camera feed started successfully.
+[2026-03-17 15:34:13] [DETECTION_START] YOLOv8 model loaded.
+[2026-03-17 15:34:13] [SYSTEM_INIT] Loaded 0 zones.
+[2026-03-17 15:34:20] [ZONE_ADDED] Added Zone 1 at (187, 34, 386, 350)
+[2026-03-17 15:34:38] [ZONE_REMOVED] Removed Zone 1
+[2026-03-17 15:34:50] [ZONE_ADDED] Added Zone 1 at (230, 64, 295, 302)
+[2026-03-17 15:35:12] [ZONE_REMOVED] Removed Zone 1
+[2026-03-17 15:35:15] [ZONE_ADDED] Added Zone 1 at (34, 55, 147, 290)
+[2026-03-17 15:35:18] [ZONE_REMOVED] Removed Zone 1
+[2026-03-17 15:35:21] [ZONE_ADDED] Added Zone 1 at (8, 74, 190, 233)
+[2026-03-17 15:35:24] [ZONE_REMOVED] Removed Zone 1
+[2026-03-17 15:35:32] [ZONE_ADDED] Added Zone 1 at (97, 71, 61, 143)
+[2026-03-17 15:35:34] [ZONE_REMOVED] Removed Zone 1
+[2026-03-17 15:35:37] [ZONE_ADDED] Added Zone 1 at (162, 65, 144, 272)
+[2026-03-17 15:36:07] [ZONE_REMOVED] Removed Zone 1
+[2026-03-17 15:36:09] [SYSTEM_SHUTDOWN] Crowd monitoring system closed.
+[2026-03-17 15:44:11] [SYSTEM_START] Crowd monitoring system initiated.
+[2026-03-17 15:44:13] [CAMERA_START] Camera feed started successfully.
+[2026-03-17 15:44:14] [DETECTION_START] YOLOv8 model loaded.
+[2026-03-17 15:44:14] [SYSTEM_INIT] Loaded 0 zones.
+[2026-03-17 15:44:16] [SYSTEM_SHUTDOWN] Crowd monitoring system closed.
